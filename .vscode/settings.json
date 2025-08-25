@@ -307,7 +307,7 @@
   },
 
   "window.menuBarVisibility": "compact",
-"workbench.secondarySideBar.defaultVisibility": "hidden",
-"makefile.configureOnOpen": true
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+  "makefile.configureOnOpen": true
 }
   
